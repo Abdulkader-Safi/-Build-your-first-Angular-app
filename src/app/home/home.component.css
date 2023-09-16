@@ -7,8 +7,8 @@
   justify-content: space-around;
 }
 
-input[text="text"] {
-  border:solid 1px var(--primary-color);
+input[type="text"] {
+  border: solid 1px var(--primary-color);
   padding: 10px;
   border-radius: 8px;
   margin-right: 4px;
